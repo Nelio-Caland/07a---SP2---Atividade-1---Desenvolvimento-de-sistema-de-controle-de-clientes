@@ -1,0 +1,14 @@
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\bin\Debug\net9.0\Atividade_7a.exe
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\bin\Debug\net9.0\Atividade_7a.deps.json
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\bin\Debug\net9.0\Atividade_7a.runtimeconfig.json
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\bin\Debug\net9.0\Atividade_7a.dll
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\bin\Debug\net9.0\Atividade_7a.pdb
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\obj\Debug\net9.0\Atividade_7a.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\obj\Debug\net9.0\Atividade_7a.AssemblyInfoInputs.cache
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\obj\Debug\net9.0\Atividade_7a.AssemblyInfo.cs
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\obj\Debug\net9.0\Atividade_7a.csproj.CoreCompileInputs.cache
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\obj\Debug\net9.0\Atividade_7a.dll
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\obj\Debug\net9.0\refint\Atividade_7a.dll
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\obj\Debug\net9.0\Atividade_7a.pdb
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\obj\Debug\net9.0\Atividade_7a.genruntimeconfig.cache
+D:\Documents\PROGRAMADOR FULLSTACK\06 - Codificação para Back-End\7a - Desenvolvimento de sistema de controle de clientes\Controle de Clientes\Atividade_7a\obj\Debug\net9.0\ref\Atividade_7a.dll
